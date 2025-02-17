@@ -9,12 +9,12 @@ By leveraging **machine learning techniques**, this project demonstrates how pre
 
 This repository includes:
 
-**•	Data preprocessing & feature engineering
+**•	Data preprocessing & feature engineering**
 
-**•	Model selection & evaluation (e.g., logistic regression, decision trees, random forests)
+**•	Model selection & evaluation (e.g., logistic regression, decision trees, random forests)**
 
-**•	Interpretability techniques (e.g., SHAP, feature importance analysis)
+**•	Interpretability techniques (e.g., SHAP, feature importance analysis)**
 
-**•	Code for training, testing, and deploying the model
+**•	Code for training, testing, and deploying the model**
 
 Return to main page (https://github.com/DanMolefe)
